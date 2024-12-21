@@ -1,0 +1,53 @@
+1. Preparazione Iniziale
+1.1 Selezione del Team
+L'esplorazione di Level 1.1 deve essere condotta solo da squadre altamente qualificate, composte da almeno tre membri, ciascuno con competenze in navigazione, sopravvivenza e gestione dei rischi. Ogni membro deve essere equipaggiato con strumenti tecnologici per il rilevamento delle distorsioni e comunicazione a lunga distanza.
+
+1.2 Equipaggiamento Essenziale
+Dispositivi GPS avanzati (o strumenti di rilevamento spaziale) per monitorare costantemente la posizione e l’orientamento.
+Radio a lunga distanza per la comunicazione tra i membri del team.
+Torche a bassa intensità per evitare di attirare entità pericolose.
+Cibo e acqua sigillati per minimizzare il rischio di contaminazione.
+Strumenti di rilevamento delle entità, come sensori a infrarossi o termocamere.
+Strumenti per marcare il percorso, come vernice fluorescente, nastri o marker visibili.
+1.3 Briefing Pre-Missione
+Prima di ogni missione, il team dovrà ricevere un briefing dettagliato. Verranno forniti i seguenti dettagli:
+
+L'area di esplorazione da coprire.
+I punti di riferimento principali e le zone da evitare.
+Le tecniche di comunicazione da utilizzare in caso di separazione.
+I segnali di emergenza e le procedure per un rientro sicuro.
+2. Esplorazione di Level 1.1
+2.1 Navigazione e Orientamento
+Una delle caratteristiche principali di Level 1.1 è la distorsione spazio-temporale, che può compromettere l'orientamento e la percezione delle distanze. Per ridurre il rischio di smarrirsi, sono necessari i seguenti protocolli:
+
+Uso di dispositivi di localizzazione: Ogni membro del team dovrà portare un GPS che segnali la propria posizione con precisione. I dispositivi devono essere regolarmente aggiornati per assicurarsi che la navigazione sia corretta.
+Pianificazione di percorsi predefiniti: Prima di entrare nel livello, è fondamentale definire un percorso chiaro e identificare punti di riferimento visibili. In caso di distorsioni, il team dovrà cercare di orientarsi verso il percorso stabilito, seguendo segnali visibili o sonori.
+Segnalazione di progressi: Ogni membro deve marcare periodicamente il proprio percorso, usando pittura fluorescente o nastri, per tracciare il cammino e prevenire il rischio di disorientamento.
+2.2 Gestione delle Entità
+Le entità in Level 1.1, come gli Smilers e i Hounds, sono particolarmente pericolose se non vengono rilevate in tempo. È essenziale adottare i seguenti protocolli di prevenzione:
+
+Rilevatori di entità: Utilizzare dispositivi di rilevamento a infrarossi o altre tecnologie per monitorare la presenza di entità in tempo reale. Se un’entità viene rilevata, il team dovrà cambiare immediatamente direzione per evitare un incontro.
+Comportamenti di prevenzione: I membri del team devono evitare di fare rumori forti, movimenti improvvisi o parlare ad alta voce, poiché ciò potrebbe attirare l'attenzione delle entità.
+Illuminazione controllata: Utilizzare luci a bassa intensità per evitare di attirare gli Smilers, che sono sensibili alla luce intensa. Torce con regolazione dell’intensità sono particolarmente utili in queste situazioni.
+2.3 Monitoraggio delle Distorsioni Spazio-Temporali
+Level 1.1 è noto per le distorsioni spazio-temporali, che possono confondere gli esploratori e alterarli rispetto al loro ambiente. Per gestire tali distorsioni, si consiglia quanto segue:
+
+Utilizzo di orologi sincronizzati: Ogni membro del team deve avere un orologio sincronizzato per monitorare la distorsione temporale. Gli orologi devono essere resettati all'ingresso nel livello per garantire il corretto monitoraggio del tempo.
+Pause regolari: Ogni 20 minuti circa, il team dovrà fermarsi per un check-up della situazione, verificando la posizione e valutando se la distorsione temporale sta avendo effetti su di loro.
+Rientro preventivo: Se le distorsioni diventano troppo gravi o il tempo sembra scorrere in modo anomalo, il team dovrà attivare il piano di ritirata per evitare di essere intrappolati in loop temporali.
+3. Recupero in Caso di Emergenza
+3.1 Segnalazioni di Emergenza
+Nel caso in cui l’esplorazione debba essere interrotta a causa di un imprevisto (come un incontro con un'entità o una grave distorsione), il protocollo di recupero prevede:
+
+Attivazione di segnali sonori: Ogni membro del team dovrà attivare una radio o un segnale sonoro per indicare la propria posizione e avvisare gli altri membri di un possibile pericolo.
+Comunicazione di ritirata: Se il team si trova a rischio di separazione o se la missione non può continuare, il membro più esperto guiderà la ritirata e assicurerà che tutti i membri siano presenti e al sicuro prima di lasciare il livello.
+3.2 Rientro e Recupero
+Il rientro sicuro è la priorità assoluta. Una volta che il team ha deciso di interrompere l'esplorazione e ritirarsi, il recupero deve seguire il protocollo seguente:
+
+Ritorno al punto di ingresso: Seguire il percorso già segnato in precedenza, tenendo traccia di tutti i segnali lasciati lungo il cammino.
+Procedure di emergenza per separazione: Se un membro del team si perde o viene separato, il protocollo prevede il suo recupero entro 30 minuti, salvo situazioni che richiedano un maggiore intervento. Gli altri membri del gruppo devono tornare al punto di separazione e cercare di localizzare l'esploratore scomparso.
+3.3 Report del Recupero
+Una volta completato il recupero, è necessario redigere un report dettagliato che descriva l'incidente, le azioni intraprese e le lezioni apprese. Questo aiuterà a migliorare il protocollo di esplorazione per future missioni.
+
+4. Conclusioni
+Le operazioni in Level 1.1 richiedono un alto livello di preparazione e disciplina. L'adozione di un protocollo rigoroso di esplorazione e recupero è fondamentale per garantire il successo della missione e la sicurezza di tutti i membri del team. Con l’implementazione di queste tecniche e strategie, l’esplorazione di questo livello pericoloso delle Backrooms diventa più sicura ed efficiente, riducendo i rischi e aumentando le probabilità di completare con successo l’operazione.
